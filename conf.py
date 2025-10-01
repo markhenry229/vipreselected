@@ -29,12 +29,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Download, Install, and Activate CCleaner Pro with License Key: A Complete Guide to Entering and Using Your CCleaner Professional Key"
+html_title = "VIPRE Internet Security Lifetime Reinstall, Keep Your Lifetime License Active After a Clean Install"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
 
 # If you want to add other meta tags, do so in your _templates/layout.html
+
 
 
 
